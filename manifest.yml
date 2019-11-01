@@ -1,0 +1,5 @@
+---
+applications:
+ - name: CreditCardApproval
+   random-route: true
+   memory: 128M
